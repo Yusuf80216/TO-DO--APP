@@ -1,16 +1,11 @@
-# to_do_app
+# Blood Donation App
 
-A new Flutter project.
+Created the App using Flutter and Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design of the App ⬇️
+<div style="display: flex;">
+  <img style="width: 20%;" src="assets/screenshots/1.jpg">
+  <img style="width: 20%;" src="assets/screenshots/2.jpg">
+  <img style="width: 20%;" src="assets/screenshots/3.jpg">
+  <img style="width: 20%;" src="assets/screenshots/4.jpg">
+</div>
